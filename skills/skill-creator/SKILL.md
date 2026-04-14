@@ -483,3 +483,16 @@ Repeating one more time the core loop here for emphasis:
 Please add steps to your TodoList, if you have such a thing, to make sure you don't forget. If you're in Cowork, please specifically put "Create evals JSON and run `eval-viewer/generate_review.py` so human can review test cases" in your TodoList to make sure it happens.
 
 Good luck!
+
+## Upstage Solar API (JNU Skillthon Context)
+
+When the user is building a skill that uses the **Upstage Solar API** — or when the context is the JNU × Upstage Skillthon — read `references/upstage.md` before writing any code.
+
+Key points:
+- All skills must call Upstage API via `UPSTAGE_API_KEY` environment variable
+- Use the boilerplate in `references/upstage.md` for the `run()` function
+- Tell the user to copy `assets/.env.example` to `.env` and fill in their key
+- Available capabilities: **Chat** (Solar LLM), **Embeddings**, **Document Parsing**
+- Recommended model for chat: `solar-pro3`
+
+Do not validate whether `.env` is in `.gitignore` — just remind the user not to commit it.
