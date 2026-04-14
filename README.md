@@ -172,4 +172,4 @@ description: 이 스킬이 하는 일과 언제 사용해야 하는지. (WHAT + 
 
 - **담당:** 조아라 연구원 / 고범수
 - **전화:** 062-530-5364 / 010-4012-1143
-- **이메일:** [sunan4711@jnu.ac.kr](mailto:sunan4711@jnu.ac.kr) / [gobeumsu@gmail.com](mailto:gobeumsu@gmail.com)
+- **이메일:** [rha852@jnu.ac.kr](mailto:rha852@jnu.ac.kr) / [gobeumsu@gmail.com](mailto:gobeumsu@gmail.com)
